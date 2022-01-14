@@ -1,4 +1,4 @@
-### Hi there https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
+### Hi there
 
 - 😄 Pronouns: he/him
 - 🔭 I’m currently working on becoming a better version of myself
