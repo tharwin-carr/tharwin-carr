@@ -1,4 +1,7 @@
-### Hi there <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' style='height:25px;' />
+<h1> Hi There! <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' style='height:25px;' /></h1>
+
+<h3>I'm Tharwin Carr</h3>
+<h3>a Software Engineer, Adviced Gamer, and Part-Time Hooper</h3>
 
 - 😄 Pronouns: he/him
 - 🔭 I’m currently working on becoming a better version of myself
